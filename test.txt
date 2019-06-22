@@ -1,3 +1,5 @@
-Tahun 2019 ini memepelajari :
+Tahun 2019 ini saya memepelajari :
   - Introduction Machine Learning
-  -
+  - Android Studio untuk pemula
+  - Introduction Python
+  - Mata Kuliah Semester 6 dan 7
